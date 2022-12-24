@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/anerpeco/testimonials-grid-section]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://testimonial-grid-section-anerpeco.vercel.app/]
 
 ## My process
 
